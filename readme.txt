@@ -2,7 +2,7 @@ doctorMapper
 
 Hugh Stimson March 2013
 
-http://hughstimson.org/2012/04/16/data-mining-my-radio-playlists/
+http://hughstimson.org/2012/04/16/playlist-data-mining/
 
 Opens a radio podcast page, scans for episodes and their linked-to WCBN playlist pages,
 extracts the tracks with their title/artist/album/label/playtime and episode data,
