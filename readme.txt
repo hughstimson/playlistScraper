@@ -11,3 +11,5 @@ and dumps it all out into a .csv table.
 Currently only works with the very specific HTML layout of the DJ Hugonaut podcast,
 and the particular HTML layout of the WCBN auto-generated playlist pages.
 So it's not very useful if that's not what you're trying to scan.
+
+Perhaps this might be useful as a template if you're trying to do something similar.
