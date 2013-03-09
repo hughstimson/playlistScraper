@@ -17,6 +17,7 @@ So it's not very useful if that's not what you're trying to scan.
 from bs4 import BeautifulSoup as bs
 import urllib2
 
+
 def main():
 
     rootUrl = 'http://hughstimson.org/projects/djhugo/'
